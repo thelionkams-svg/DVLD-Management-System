@@ -1,0 +1,54 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Teacher Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb

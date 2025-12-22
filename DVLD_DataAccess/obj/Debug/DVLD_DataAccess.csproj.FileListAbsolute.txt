@@ -1,0 +1,36 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\2 - Courses From 11 To 20\19 - The 19 Course\2 - Project 1\1 - The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Teacher Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Teacher Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Teacher Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Project\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Test\Desktop\The Educational Courses\1 - Programing Course\4 - The Educational Projects\1 - The DVLD Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
