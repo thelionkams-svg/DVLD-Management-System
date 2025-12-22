@@ -25,3 +25,6 @@ I spent a lot of time coding the "Business Rules" to make sure the system is rea
 * **Language:** C#
 * **Database:** SQL Server 
 * **Architecture:** 3-Tier Architecture (Presentation, Business Logic, and Data Access Layers).
+
+## Acknowledgments
+This project was developed as part of the "Full Project in C#" course by **Eng. Mohammed Abu-Hadhoud** (Programming Advices). I built this system following professional architectural standards to ensure high-quality code and robust business logic.
