@@ -1,9 +1,3 @@
-    <div dir="rtl" style="text-align: right;">
-
-**GitHub README – DVLD Project**
-
----
-
 # DVLD – Driving & Vehicle License Department Management System
 
 A comprehensive **3-Tier desktop application** built with **C#**, **Windows Forms**, and **SQL Server**, designed to automate the full lifecycle of driving license issuance and management.
