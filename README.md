@@ -2,7 +2,7 @@
 
 A comprehensive **3-Tier desktop application** built with **C#**, **Windows Forms**, and **SQL Server**, designed to automate the full lifecycle of driving license issuance and management.
 
-> **Note:** This project was developed as part of the **"Full Project in C#"** course by **Eng. Mohammed Abu-Hadhoud (Programming Advices)**. I built it independently following the instructor's solution to master 3-Tier architecture and real-world business logic.
+> **Note:** This project was developed as part of the **"Full Project in C#"** course by **Eng. Mohammed Abu-Hadhoud (Programming Advices)**. I built it  following the instructor's solution to master 3-Tier architecture and real-world business logic.
 
 ---
 
