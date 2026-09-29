@@ -1,30 +1,88 @@
-# DVLD - Driving & Vehicle License Department Management System
+    <div dir="rtl" style="text-align: right;">
 
-## About the Project
-This is my first comprehensive project built using **C#** and **SQL Server**. The goal of this system is to manage and automate the entire process of issuing driving licenses. I designed the architecture using a **3-Layer approach** (UI, Business, and Data Access) to ensure the code is organized and easy to maintain.
+**GitHub README – DVLD Project**
 
-## Features I Implemented:
+---
 
-### 🛠️ Core Services & Application Workflow
-I developed the system to handle various types of applications, each with its own business logic:
-**First-Time Licenses**: I implemented a strict workflow where the applicant must pass three tests in order: Vision, Written, and Practical. 
-**License Management**: The system handles Renewals, Replacements (for lost or damaged licenses), and International Licenses. 
-**Detained Licenses**: I added a feature to manage fines and release licenses once payments are cleared. 
+# DVLD – Driving & Vehicle License Department Management System
 
-### 🚦 Testing and Requirements Logic
-I spent a lot of time coding the "Business Rules" to make sure the system is realistic:
-**Age Verification**: The system automatically checks if the applicant meets the minimum age for each class (e.g., 18 for Class 1 and 3, or 21 for heavy vehicles). 
-**Test Sequence**: I ensured that an applicant cannot book a Practical test without passing the Vision and Written tests first. 
-**National ID Check**: To prevent data duplication, the system uses the National ID as a unique identifier for every person.
+A comprehensive **3-Tier desktop application** built with **C#**, **Windows Forms**, and **SQL Server**, designed to automate the full lifecycle of driving license issuance and management.
 
-### 👥 User and Person Management
-* I built a module to manage "People" information separately from "Users". 
-* Users (employees) have specific permissions and can be activated or deactivated. 
+> **Note:** This project was developed as part of the **"Full Project in C#"** course by **Eng. Mohammed Abu-Hadhoud (Programming Advices)**. I built it independently following the instructor's solution to master 3-Tier architecture and real-world business logic.
 
-## Technical Details
-* **Language:** C#
-* **Database:** SQL Server 
-* **Architecture:** 3-Tier Architecture (Presentation, Business Logic, and Data Access Layers).
+---
 
-## Acknowledgments
-This project was developed as part of the "Full Project in C#" course by **Eng. Mohammed Abu-Hadhoud** (Programming Advices). I built this system following professional architectural standards to ensure high-quality code and robust business logic.
+## 📦 Project Scale
+
+| Metric | Count |
+|---|---|
+| Projects (Layers) | 3 (UI, Business, DataAccess) |
+| Business Classes | ~20 |
+| Data Access Classes | ~18 |
+| Windows Forms (Screens) | 30+ |
+| Database Tables | 15+ |
+| License Categories | 7 |
+| Services Implemented | 7 |
+
+---
+
+## 🏗️ Architecture
+
+```
+DVLD (UI - Windows Forms)
+    ↓
+DVLD_Business (Business Logic Layer)
+    ↓
+DVLD_DataAccess (Data Access Layer - ADO.NET)
+    ↓
+SQL Server Database
+```
+
+---
+
+## ⚙️ What the System Does
+
+**Core Services:**
+- First-time license issuance (3-stage testing: Vision → Written → Practical)
+- License renewal, replacement (lost/damaged), and detention release
+- International license issuance (Class 3 holders only)
+
+**Business Rules:**
+- Age validation per license class (18 / 21 years)
+- Sequential test enforcement (cannot skip stages)
+- Unique National ID enforcement
+- Prevent duplicate license of same class
+
+**Management Modules:**
+- People & Users (with activation/permissions)
+- Applications & Application Types
+- Tests & Test Appointments
+- License Classes & Detained Licenses
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** C#
+- **UI:** Windows Forms
+- **Database:** SQL Server (ADO.NET)
+- **Architecture:** 3-Tier (Presentation, Business, Data Access)
+- **Tools:** Visual Studio, SSMS, Git
+
+---
+
+## 📚 What I Learned
+
+- Designing and implementing **3-Tier Architecture** from scratch
+- Translating **complex business rules** into maintainable code
+- Handling **relational data** with Many-to-Many and One-to-Many relationships
+- Building **30+ interconnected screens** with consistent UX
+- Managing a **large-scale codebase** (~60 classes)
+
+---
+
+## 🙏 Acknowledgments
+
+Built under the mentorship of **Eng. Mohammed Abu-Hadhoud** as part of the **Programming Advices** diploma. Special thanks for the professional architectural guidance.
+
+---
